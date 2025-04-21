@@ -29,7 +29,7 @@ A deep learning-based system for real-time sign language detection using compute
 
 1. Clone the repository:
 ```bash
-git clone <your-repository-url>
+git clone "https://github.com/Melsa16/Sign-Language-Detection.git"
 cd sign-language-detection
 ```
 
@@ -90,14 +90,9 @@ The model evaluation includes:
 
 ## License
 
-[Your chosen license]
-
-## Contributing
-
-[Your contribution guidelines]
+[MIT LICENSE]
 
 ## Acknowledgments
 
 - MediaPipe for pose and hand landmark detection
 - TensorFlow for deep learning framework
-- [Any other acknowledgments] 
